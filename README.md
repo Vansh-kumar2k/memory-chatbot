@@ -73,13 +73,31 @@ memorychat/
 
 ---
 
+## 🎬 Demo
+
+<div align="center">
+
+https://github.com/your-username/memorychat/assets/your-user-id/your-video-file.mp4
+
+> 💡 *To embed a demo video on GitHub: drag and drop your `.mp4` file into any GitHub Issue comment box → copy the generated URL → paste it above, replacing the placeholder link.*
+
+</div>
+
+---
+
 ## 📸 Screenshots
 
-> 🖼️ *Screenshots coming soon — demo video in progress.*
+<div align="center">
 
-| Chat Interface | PDF Upload | Personality Switcher |
-|:---:|:---:|:---:|
-| `[Screenshot Placeholder]` | `[Screenshot Placeholder]` | `[Screenshot Placeholder]` |
+**Chat Interface with Memory**
+![Chat Interface](assets/screenshot-chat.png)
+
+**PDF Upload & Document Q&A**
+![PDF Upload](assets/screenshot-pdf.png)
+
+</div>
+
+> 💡 *To add screenshots: create an `assets/` folder in your repo, add your images named `screenshot-chat.png` and `screenshot-pdf.png`, and they will appear here automatically.*
 
 ---
 
@@ -280,7 +298,7 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for full details
 
 <div align="center">
 
-Built with ❤️ using Streamlit & Mistral 7B · Powered by Together AI
+Built using Streamlit & Mistral 7B · Powered by Together AI
 
 *Star ⭐ this repo if MemoryChat helped you build something awesome!*
 
