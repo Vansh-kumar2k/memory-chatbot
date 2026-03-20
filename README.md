@@ -21,9 +21,7 @@
 
 Unlike stateless chatbots, MemoryChat carries the entire conversation history in every API request, giving the model full context to reason, recall, and respond intelligently.
 
-> Upload a research paper, switch to Developer mode, and ask it to summarize the algorithm. MemoryChat just gets it.
 
----
 
 ## ✨ Features
 
@@ -84,7 +82,6 @@ memorychat/
 ![PDF Upload](image22.png)
 
 </div>
-> 💡 *To add screenshots: create an `assets/` folder in your repo, add your images named `screenshot-chat.png` and `screenshot-pdf.png`, and they will appear here automatically.*
 
 ---
 
