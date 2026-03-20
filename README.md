@@ -73,18 +73,6 @@ memorychat/
 
 ---
 
-## 🎬 Demo
-
-<div align="center">
-
-https://github.com/your-username/memorychat/assets/your-user-id/your-video-file.mp4
-
-> 💡 *To embed a demo video on GitHub: drag and drop your `.mp4` file into any GitHub Issue comment box → copy the generated URL → paste it above, replacing the placeholder link.*
-
-</div>
-
----
-
 ## 📸 Screenshots
 
 <div align="center">
@@ -289,10 +277,6 @@ Contributions are warmly welcome!
 3. Commit your changes: `git commit -m 'feat: add some feature'`
 4. Push to the branch: `git push origin feature/your-feature-name`
 5. Open a Pull Request
-
-Please follow existing code style and add comments where relevant.
-
----
 
 ## 📄 License
 
