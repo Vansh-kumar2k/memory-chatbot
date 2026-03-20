@@ -1,9 +1,9 @@
-# tgp_v1_O2Xw6iZvD3rf4JVgxDG1A4uvnV0zpKPAaVOJ9wAR3Mg
+
 import streamlit as st
 import requests
 
 
-API_KEY = "tgp_v1_O2Xw6iZvD3rf4JVgxDG1A4uvnV0zpKPAaVOJ9wAR3Mg"
+API_KEY = ""
 
 st.set_page_config(page_title="🧠 Memory Chatbot")
 st.title("🧠 Chatbot with Memory")
