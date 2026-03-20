@@ -298,7 +298,7 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for full details
 
 <div align="center">
 
-Built using Streamlit & Mistral 7B · Powered by Together AI
+Built with ❤️ using Streamlit & Mistral 7B · Powered by Together AI
 
 *Star ⭐ this repo if MemoryChat helped you build something awesome!*
 
