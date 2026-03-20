@@ -77,14 +77,13 @@ memorychat/
 
 <div align="center">
 
-**Chat Interface with Memory**
-![Chat Interface](assets/screenshot-chat.png)
+**Chat Interface with Memory**  
+![Chat Interface](image21.png)
 
-**PDF Upload & Document Q&A**
-![PDF Upload](assets/screenshot-pdf.png)
+**PDF Upload & Document Q&A**  
+![PDF Upload](image22.png)
 
 </div>
-
 > 💡 *To add screenshots: create an `assets/` folder in your repo, add your images named `screenshot-chat.png` and `screenshot-pdf.png`, and they will appear here automatically.*
 
 ---
