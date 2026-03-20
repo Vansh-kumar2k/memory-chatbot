@@ -290,6 +290,10 @@ Contributions are warmly welcome!
 4. Push to the branch: `git push origin feature/your-feature-name`
 5. Open a Pull Request
 
+Please follow existing code style and add comments where relevant.
+
+---
+
 ## 📄 License
 
 Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for full details.
