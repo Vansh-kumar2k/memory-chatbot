@@ -272,32 +272,6 @@ Contributions are warmly welcome!
 4. Push to the branch: `git push origin feature/your-feature-name`
 5. Open a Pull Request
 
-Please follow existing code style and add comments where relevant.
-
----
-
-## ⚠️ Security Notice
-
-> This project contains a **hardcoded API key** in `app.py`. Remove it before pushing to any public repository and replace it with environment variable loading:
-
-```python
-# ✅ Secure approach
-import os
-from dotenv import load_dotenv
-load_dotenv()
-API_KEY = os.getenv("TOGETHER_API_KEY")
-```
-
-Add `.env` to your `.gitignore`:
-
-```
-.env
-__pycache__/
-*.pyc
-```
-
----
-
 ## 📄 License
 
 Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for full details.
